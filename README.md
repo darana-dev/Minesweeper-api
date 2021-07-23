@@ -1,2 +1,4 @@
 # Minesweeper-api
-Api for the game minesweeper 
+Api for the minesweeper game.
+Using Spring boot.
+
